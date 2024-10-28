@@ -10,6 +10,14 @@ Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi koloram
 
 ![Projekt ESP32 Wi-Fi](https://cdn.discordapp.com/attachments/1296222763530584106/1300572636954365992/image.png?ex=67215428&is=672002a8&hm=9c886f3e1c6ad11490cf11a02ea84a367041e39402f4821460dccb4a9ba973dc&)
 
+## Technologie
+Projekt został zrealizowany z wykorzystaniem następujących języków i technologii:
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++: Główny język użyty do programowania ESP32.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML: Użyty do tworzenia struktury strony internetowej.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS: Użyty do stylizacji interfejsu użytkownika.
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) Arduino: Platforma programistyczna dla ESP32.
+- ![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white) PlatformIO: Środowisko do zarządzania projektami.
+
 ## Funkcje
 - Wyświetlanie listy pobliskich sieci Wi-Fi z ich SSID i RSSI.
 - Lista adresów MAC urządzeń podłączonych do ESP32 AP.
