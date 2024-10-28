@@ -21,8 +21,7 @@ Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi koloram
 ![Przykładowa Płytka](https://cdn.discordapp.com/attachments/1296222763530584106/1300576392697872394/IMG_6544.jpg?ex=672157a7&is=67200627&hm=e5e0db81d7375b31cf65c3eedf682adb1397ed013f89d13bd552575ea02dc147&)
 
 > [!NOTE]
-> **PlatformIO**: Popularne rozszerzenie IDE do rozwijania projektów ESP32.
-**Arduino IDE**: Do wgrania kodu na płytkę ESP32.
+> Używam **PlatformIO** jako popularne rozszerzenie IDE do rozwijania projektów ESP32 oraz **Arduino IDE** do wgrania kodu na płytkę ESP32.
 
 ## Jak uruchomić
 1. Skopiuj kod źródłowy do projektu w PlatformIO.
@@ -33,6 +32,9 @@ Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi koloram
 
 ## Autor
 - **Miłosz Parzych**: [@lolowiczz](https://github.com/lolowiczz)
+  - ![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white): [@lolowiczz](https://www.instagram.com/your_instagram)
+  - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white): @lolowicz
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [@lolowiczz](https://github.com/lolowiczz)
 
 ## Wsparcie
 Jeśli masz pytania lub potrzebujesz pomocy, otwórz problem w repozytorium lub skontaktuj się ze mną bezpośrednio.
