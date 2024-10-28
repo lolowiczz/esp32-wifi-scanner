@@ -40,4 +40,4 @@ Jeśli masz pytania lub potrzebujesz pomocy, otwórz problem w repozytorium lub 
 ## Wkład
 Czujesz się na siłach, by dodać coś do tego projektu? Napisz do mnie mailem a popracujemy razem!
 
-![Mail](https://img.shields.io/badge/Email-example@example.com-orange?style=for-the-badge&logo=gmail&logoColor=white) **mp@parzych.eu**
+![Mail](https://img.shields.io/badge/Email-mp@parzych.eu-blue?style=for-the-badge&logo=gmail&logoColor=white)
