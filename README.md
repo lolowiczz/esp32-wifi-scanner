@@ -31,10 +31,11 @@ Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi koloram
 5. Po wgraniu kodu, otwórz przeglądarkę i wprowadź adres `http://192.168.4.1`, aby uzyskać dostęp do interfejsu.
 
 ## Autor
-- **Miłosz Parzych**: [@lolowiczz](https://github.com/lolowiczz)
-  - ![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white): [@lolowiczz](https://www.instagram.com/your_instagram)
-  - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white): @lolowicz
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [@lolowiczz](https://github.com/lolowiczz)
+- **Miłosz Parzych**:
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lolowiczz/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green)](https://codelaunch.pl)
+[![Discord](https://img.shields.io/discord/your-discord-server-id?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/HJTDT2Y9aC)
+
 
 ## Wsparcie
 Jeśli masz pytania lub potrzebujesz pomocy, otwórz problem w repozytorium lub skontaktuj się ze mną bezpośrednio.
