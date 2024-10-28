@@ -22,7 +22,7 @@ Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi koloram
 
 > [!NOTE]
 > **PlatformIO**: Popularne rozszerzenie IDE do rozwijania projektów ESP32.
-> **Arduino IDE**: Do wgrania kodu na płytkę ESP32.
+**Arduino IDE**: Do wgrania kodu na płytkę ESP32.
 
 ## Jak uruchomić
 1. Skopiuj kod źródłowy do projektu w PlatformIO.
