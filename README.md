@@ -1,31 +1,43 @@
-# ESP32 Wi-Fi Network Scanner and Client Device Display
+# Skanner sieci Wi-Fi i wyświetlacz podłączonych urządzeń ESP32
 
-## Description
-This project is a simple web server hosted on an ESP32 microcontroller, designed to display nearby Wi-Fi networks and connected devices. The server operates as an Access Point (AP) that can be connected to via any Wi-Fi-enabled device. Through a user-friendly web interface, users can view:
+## Opis
+Ten projekt to prosty serwer WWW hostowany na mikrokontrolerze ESP32, zaprojektowany do wyświetlania pobliskich sieci Wi-Fi oraz podłączonych urządzeń. Serwer działa jako punkt dostępu (AP), do którego można się podłączyć za pomocą dowolnego urządzenia z obsługą Wi-Fi. Poprzez przyjazny interfejs webowy użytkownicy mogą przeglądać:
 
-1. A list of available Wi-Fi networks within range of the ESP32 along with signal strength (RSSI).
-2. A list of connected devices to the ESP32 AP, displaying each device's MAC address.
+1. Listę dostępnych sieci Wi-Fi w zasięgu ESP32 wraz z siłą sygnału (RSSI).
+2. Listę urządzeń podłączonych do punktu dostępu ESP32, wyświetlając adres MAC każdego urządzenia.
 
-The user interface is designed in a dark theme with neon colors for enhanced visibility and aesthetics.
+Interfejs użytkownika zaprojektowany jest w ciemnym motywie z neonowymi kolorami dla lepszej widoczności i estetyki.
 
-![ESP32 Wi-Fi Project](https://cdn.discordapp.com/attachments/1296222763530584106/1300572636954365992/image.png?ex=67215428&is=672002a8&hm=9c886f3e1c6ad11490cf11a02ea84a367041e39402f4821460dccb4a9ba973dc&)
+![Projekt ESP32 Wi-Fi](https://cdn.discordapp.com/attachments/1296222763530584106/1300572636954365992/image.png?ex=67215428&is=672002a8&hm=9c886f3e1c6ad11490cf11a02ea84a367041e39402f4821460dccb4a9ba973dc&)
 
-## Features
-- Displays a list of nearby Wi-Fi networks with their SSIDs and RSSI.
-- Lists MAC addresses of devices connected to the ESP32 AP.
-- Stylish, responsive design using CSS Grid layout.
-- Blinking LED indicator for server activity.
+## Funkcje
+- Wyświetlanie listy pobliskich sieci Wi-Fi z ich SSID i RSSI.
+- Lista adresów MAC urządzeń podłączonych do ESP32 AP.
+- Stylowy, responsywny design z użyciem układu CSS Grid.
+- Migająca dioda LED wskazująca aktywność serwera.
 
-## Hardware Requirements
-- **ESP32 Development Board**: Any ESP32-based board should work.
-- **LED**: Connected to GPIO pin for indicating server status.
-- **Jumper Wires**: For connections if using an external LED.
+> [!TIP]  
+> Użyj płytki rozwojowej ESP32, powinna mieć ona wbudowaną diodę led oraz wejście na kabel (USB / USB-C)
+![Przykładowa Płytka](https://cdn.discordapp.com/attachments/1296222763530584106/1300576392697872394/IMG_6544.jpg?ex=672157a7&is=67200627&hm=e5e0db81d7375b31cf65c3eedf682adb1397ed013f89d13bd552575ea02dc147&)
 
-## Software Requirements
-- **PlatformIO**: A popular IDE extension for developing ESP32 projects.
-- **Arduino IDE**: Ensure you have the ESP32 board library installed in Arduino.
+> [!NOTE]
+> **PlatformIO**: Popularne rozszerzenie IDE do rozwijania projektów ESP32.
+> **Arduino IDE**: Do wgrania kodu na płytkę ESP32.
 
-## Getting Started
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+## Jak uruchomić
+1. Skopiuj kod źródłowy do projektu w PlatformIO.
+2. Podłącz płytkę ESP32 do komputera.
+3. Wybierz odpowiednią płytkę w PlatformIO.
+4. Wgraj kod na płytkę.
+5. Po wgraniu kodu, otwórz przeglądarkę i wprowadź adres `http://192.168.4.1`, aby uzyskać dostęp do interfejsu.
+
+## Autor
+- **Miłosz Parzych**: [@lolowiczz](https://github.com/lolowiczz)
+
+## Wsparcie
+Jeśli masz pytania lub potrzebujesz pomocy, otwórz problem w repozytorium lub skontaktuj się ze mną bezpośrednio.
+
+## Wkład
+Czujesz się na siłach, by dodać coś do tego projektu? Napisz do mnie mailem a popracujemy razem!
+
+![Mail](https://img.shields.io/badge/Email-example@example.com-orange?style=for-the-badge&logo=gmail&logoColor=white) **mp@parzych.eu**
